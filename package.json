@@ -1,6 +1,6 @@
 {
   "name": "web-content-extractor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "extract a web page text content",
   "main": "index.js",
   "type": "module",
