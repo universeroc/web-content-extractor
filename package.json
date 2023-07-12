@@ -1,0 +1,30 @@
+{
+  "name": "web-content-extractor",
+  "version": "1.0.0",
+  "description": "extract a web page text content",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/universeroc/web-content-extractor.git"
+  },
+  "keywords": [
+    "web",
+    "extract",
+    "page",
+    "text",
+    "crawler"
+  ],
+  "author": "universeroc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/universeroc/web-content-extractor/issues"
+  },
+  "homepage": "https://github.com/universeroc/web-content-extractor#readme",
+  "dependencies": {
+    "puppeteer": "^20.8.1"
+  }
+}
